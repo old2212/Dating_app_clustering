@@ -1,0 +1,3 @@
+#!/Users/olivier_ld/Desktop/Becode-cloud/Projects/dating_app/NEW_DATING/bin/python3.10
+from numba.pycc import main
+main()
